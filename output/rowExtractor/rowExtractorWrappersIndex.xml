@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="rowExtractor0" source="rowExtractor00.xml" dataset="rowExtractor0_DataSet.xml" number_of_samples="2" compress_ratio="95,62%" schema_dl="628" instances_dl="5096" samples_dl="5986">
+    <instance name="row1" source="file:/C:/Users/Victor/workspace/TableExtender/rows/row1.html" sample_dl="3068" instance_dl="2623"/>
+    <instance name="row2" source="file:/C:/Users/Victor/workspace/TableExtender/rows/row2.html" sample_dl="2918" instance_dl="2473"/>
+  </wrapper>
+</index>

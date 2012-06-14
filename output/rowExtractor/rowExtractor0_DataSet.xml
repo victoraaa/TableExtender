@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<?xml-stylesheet href="..\.style\data.xsl" type="text/xsl"?>
+<dataset wrappedby="rowExtractor">
+    <instance source="file:/C:/Users/Victor/workspace/TableExtender/rows/row1.html" name="row1">
+      <and>
+        <attribute label="_A_"><link target="http://www.gamespot.com/medieval-ii-total-war/"/></attribute>
+        <attribute label="_B_">Medieval II: Total War123AXZKY</attribute>
+        <attribute label="_C_"><link target="http://www.gamespot.com/medieval-ii-total-war/"/></attribute>
+        <attribute label="_D_">PC123AXZKY</attribute>
+        <attribute label="_E_">Release Date: Nov 13, 2006</attribute>
+        <attribute label="_F_">Gentre: Historic Real-Time Strategy</attribute>
+        <attribute label="_G_">Medieval II: Total War123AXZKY is fourth installment in the franchise, and features the same empire building and real time battles, but with improved graphics, gameplay enhancements, and more.</attribute>
+        <attribute label="_H_"><link target="http://www.gamespot.com/medieval-ii-total-war/reviews/medieval-2-total-war-review-6161703/"/></attribute>
+        <attribute label="_I_"><link target="http://www.gamespot.com/medieval-ii-total-war/"/></attribute>
+        <attribute label="_J_"><link target="http://www.gamespot.com/medieval-ii-total-war/reviews/medieval-2-total-war-review-6161703/"/></attribute>
+        <attribute label="_K_">8.8123AXZKY</attribute>
+        <attribute label="_L_"><link target="http://www.gamespot.com/medieval-ii-total-war/reviews/medieval-2-total-war-review-6161703/"/></attribute>
+        <attribute label="_M_">Read the Medieval II: Total War123AXZKY Review</attribute>
+      </and>
+    </instance>
+    <instance source="file:/C:/Users/Victor/workspace/TableExtender/rows/row2.html" name="row2">
+      <and>
+        <attribute label="_A_"><link target="http://www.gamespot.com/league-of-legends/"/></attribute>
+        <attribute label="_B_">League of Legends</attribute>
+        <attribute label="_C_"><link target="http://www.gamespot.com/league-of-legends/"/></attribute>
+        <attribute label="_D_">PC</attribute>
+        <attribute label="_E_">Release Date: Oct 27, 2009</attribute>
+        <attribute label="_F_">Gentre: Action Role-Playing</attribute>
+        <attribute label="_G_">League of Legends combines elements of role-playing and strategy genres with addictive battle action that brings accessible, replayable and competitive gameplay into a whimsical universe that deepens with the player's commitment.</attribute>
+        <attribute label="_H_"><link target="http://www.gamespot.com/league-of-legends/reviews/league-of-legends-review-6239387/"/></attribute>
+        <attribute label="_I_"><link target="http://www.gamespot.com/league-of-legends/"/></attribute>
+        <attribute label="_J_"><link target="http://www.gamespot.com/league-of-legends/reviews/league-of-legends-review-6239387/"/></attribute>
+        <attribute label="_K_">6.0</attribute>
+        <attribute label="_L_"><link target="http://www.gamespot.com/league-of-legends/reviews/league-of-legends-review-6239387/"/></attribute>
+        <attribute label="_M_">Read the League of Legends Review</attribute>
+      </and>
+    </instance>
+</dataset>

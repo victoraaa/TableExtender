@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<wrapper name="rowExtractor">
+<preferences name="Wrapper Configuration for Lexical Analysis">
+  <variantTags value="a"/>
+  <skipAttributes value="selected,bgcolor"/>
+  <skipTrees value="script,style"/>
+  <freetextTags value="a"/>
+  <skipTags value="font,b,i,span,sup,div,img"/>
+  <keepTags value="false"/>
+  <attributeValues value=""/>
+  <freetext value="false"/>
+</preferences>
+<expression>
+  <and>
+    <tag element="html" depth="0" attrs=""/>
+    <tag element="body" depth="1" attrs=""/>
+    <tag element="li" depth="2" attrs="class"/>
+    <tag element="h3" depth="3" attrs="class"/>
+    <variant label="_A_"><tag element="a" depth="4" attrs="href"/></variant>
+    <variant label="_B_"><pcdata depth="5"><![CDATA[Medieval II: Total War123AXZKY]]></pcdata></variant>
+    <tag element="/a" depth="4" attrs="href"/>
+    <tag element="/h3" depth="3" attrs="class"/>
+    <tag element="p" depth="3" attrs="class"/>
+    <variant label="_C_"><tag element="a" depth="4" attrs="href"/></variant>
+    <variant label="_D_"><pcdata depth="5"><![CDATA[PC123AXZKY]]></pcdata></variant>
+    <tag element="/a" depth="4" attrs="href"/>
+    <tag element="/p" depth="3" attrs="class"/>
+    <tag element="ul" depth="3" attrs="class"/>
+    <tag element="li" depth="4" attrs="class"/>
+    <variant label="_E_"><pcdata depth="5"><![CDATA[Release Date: Nov 13, 2006]]></pcdata></variant>
+    <tag element="/li" depth="4" attrs="class"/>
+    <tag element="li" depth="4" attrs=""/>
+    <variant label="_F_"><pcdata depth="5"><![CDATA[Gentre: Historic Real-Time Strategy]]></pcdata></variant>
+    <tag element="/li" depth="4" attrs=""/>
+    <tag element="li" depth="4" attrs=""/>
+    <tag element="/li" depth="4" attrs=""/>
+    <tag element="/ul" depth="3" attrs="class"/>
+    <tag element="p" depth="3" attrs=""/>
+    <variant label="_G_"><pcdata depth="4"><![CDATA[Medieval II: Total War123AXZKY is fourth installment in the franchise, and features the same empire building and real time battles, but with improved graphics, gameplay enhancements, and more.]]></pcdata></variant>
+    <variant label="_H_"><tag element="a" depth="4" attrs="rel,href"/></variant>
+    <pcdata depth="5"><![CDATA[Read the Review]]></pcdata>
+    <tag element="/a" depth="4" attrs="rel,href"/>
+    <tag element="/p" depth="3" attrs=""/>
+    <variant label="_I_"><tag element="a" depth="3" attrs="rel,href"/></variant>
+    <tag element="/a" depth="3" attrs="rel,href"/>
+    <variant label="_J_"><tag element="a" depth="3" attrs="class,href"/></variant>
+    <pcdata depth="4"><![CDATA[REVIEW]]></pcdata>
+    <variant label="_K_"><pcdata depth="4"><![CDATA[8.8123AXZKY]]></pcdata></variant>
+    <tag element="/a" depth="3" attrs="class,href"/>
+    <variant label="_L_"><tag element="a" depth="3" attrs="href"/></variant>
+    <variant label="_M_"><pcdata depth="4"><![CDATA[Read the Medieval II: Total War123AXZKY Review]]></pcdata></variant>
+    <tag element="/a" depth="3" attrs="href"/>
+    <tag element="/li" depth="2" attrs="class"/>
+    <tag element="/body" depth="1" attrs=""/>
+    <tag element="/html" depth="0" attrs=""/>
+  </and>
+</expression>
+</wrapper>

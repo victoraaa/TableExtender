@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<?xml-stylesheet href="..\.style\data.xsl" type="text/xsl"?>
+<dataset wrappedby="rowExtractor">
+    <instance source="file:/C:/Users/Victor/workspace/TableExtender/rows/row1.html" name="row1">
+      <and>
+        <attribute label="_A_">21</attribute>
+        <attribute label="_B_"><link target="/wiki/Baltimore123AXZKY"/></attribute>
+        <attribute label="_C_">Baltimore</attribute>
+        <subtree>
+<TD><A href="/wiki/Maryland123AXZKY" title="Maryland123AXZKY">Maryland123AXZKY</A></TD>        </subtree>
+        <attribute label="_D_">&amp;10000000000620961000000</attribute>
+        <attribute label="_E_">620,961</attribute>
+        <attribute label="_F_">&amp;10000000000000080900000</attribute>
+        <attribute label="_G_">80.9</attribute>
+        <attribute label="_H_">&amp;10000000000007675699999</attribute>
+        <attribute label="_I_">7,675.7</attribute>
+      </and>
+    </instance>
+    <instance source="file:/C:/Users/Victor/workspace/TableExtender/rows/row2.html" name="row2">
+      <and>
+        <attribute label="_A_">100</attribute>
+        <attribute label="_B_"><link target="/wiki/Spokane,_Washington"/></attribute>
+        <attribute label="_C_">Spokane</attribute>
+        <subtree>
+<TD><A class="mw-redirect" href="/wiki/Washington_(U.S._state)" title="Washington (U.S. state)">Washington</A></TD>        </subtree>
+        <attribute label="_D_">&amp;10000000000208916000000</attribute>
+        <attribute label="_E_">208,916</attribute>
+        <attribute label="_F_">&amp;10000000000000059200000</attribute>
+        <attribute label="_G_">59.2</attribute>
+        <attribute label="_H_">&amp;10000000000003529000000</attribute>
+        <attribute label="_I_">3,529.0</attribute>
+      </and>
+    </instance>
+</dataset>
